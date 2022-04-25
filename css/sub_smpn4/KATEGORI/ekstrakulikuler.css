@@ -13,3 +13,11 @@ i {
   top: -20px;
   right: -15px;
 }
+
+.intro {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
